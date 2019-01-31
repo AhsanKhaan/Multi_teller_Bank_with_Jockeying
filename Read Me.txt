@@ -1,0 +1,1 @@
+Jockeying means is to move on another Queue when thier is lesser queue left from where bank customer is standed.
